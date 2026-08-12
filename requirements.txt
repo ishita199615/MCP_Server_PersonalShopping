@@ -1,0 +1,6 @@
+mcp>=1.2.0
+playwright>=1.40.0
+# Drop-in Playwright fork with the automation tells patched out. browser.py
+# prefers it and silently falls back to stock playwright if it's missing --
+# which is what makes Target's PerimeterX challenge you.
+patchright>=1.61.0

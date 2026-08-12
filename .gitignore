@@ -1,0 +1,15 @@
+# Your Target credentials. Never commit these.
+target.env
+.env
+
+# Chrome's user-data-dir for this server. Holds a live Target session --
+# treat it like a password.
+.session/
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Local Claude Code settings
+.claude/
