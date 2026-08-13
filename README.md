@@ -5,6 +5,8 @@ milk, a dozen eggs, bananas"* — it searches Target, compares prices and unit
 prices, shows me what it wants to add, and fills my cart. I review and check out
 myself. **There is no checkout automation, on purpose.**
 
+⭐ If this is useful to you, consider starring the repo — it helps others find it.
+
 Built as a weekend project on the [Model Context Protocol
 (MCP)](https://modelcontextprotocol.io) — think of MCP as a **USB port for AI
 apps**: you plug a tool server into Claude, and Claude can suddenly *do* things,
